@@ -1,3 +1,4 @@
+# 이중 연결리스트ver2
 ![이중연결리스트 ver2](https://user-images.githubusercontent.com/81175672/162357585-e23b9ae0-3d67-4a8f-9ae9-a7207c408b4c.JPG)
 
 ```c
