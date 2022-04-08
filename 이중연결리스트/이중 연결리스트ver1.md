@@ -1,6 +1,6 @@
 # 이중 연결리스트ver1
 
-![이중연결리스트 ver1](https://user-images.githubusercontent.com/81175672/162357166-bb2cd156-6f62-485d-bd0c-f0b48ed750e4.JPG)
+![이중연결리스트 ver1](https://user-images.githubusercontent.com/81175672/162357166-bb2cd156-6f62-485d-bd0c-f0b48ed750e4.JPG)                   
 ver1 코드는 단일 연결리스트에서 한 방식처럼 연결리스트의 맨 앞을 가리키는 **H**를 따로 지정하고 따로 **포인터 p**를 선언해 초기 위치를 H로 지정하고 p의 포인터 값을 계속 다음으로 옮겨가면서 원소값에 접근하는 코드이다.
 
 ```C
