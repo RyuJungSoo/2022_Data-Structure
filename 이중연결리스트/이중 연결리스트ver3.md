@@ -1,4 +1,4 @@
-![이중연결리스트 ver3](https://user-images.githubusercontent.com/81175672/162357665-b70a2e7e-e41b-4a1e-a486-9ec1fad65416.JPG)
+![캡처0](https://user-images.githubusercontent.com/81175672/162357758-d2588b1d-12a4-4a23-b101-206bb3907140.JPG)
 
 ```c
 #include <stdio.h>
