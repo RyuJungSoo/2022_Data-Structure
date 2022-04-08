@@ -1,6 +1,7 @@
 # 이중 연결리스트ver3
-![캡처0](https://user-images.githubusercontent.com/81175672/162357758-d2588b1d-12a4-4a23-b101-206bb3907140.JPG)
-
+![캡처0](https://user-images.githubusercontent.com/81175672/162357758-d2588b1d-12a4-4a23-b101-206bb3907140.JPG)                     
+ver3 코드는 ver1에서 한 방식처럼 연결리스트의 맨 앞을 가리키는 **H**, 맨 뒤를 가리키는 **T** 따로 지정하고 **포인터 p**를 선언해 초기 위치를 H 또는 T로 지정하고 p의 포인터 값을 계속 다음으로 옮겨가면서 원소값에 접근하는 코드이다.       
+**단, 여기서 사용하는 H, T는 가리키는 용도이지 헤더, 트레일러를 할당받지 않았다는 점을 숙지하자!!!** 
 ```c
 #include <stdio.h>
 #include <stdlib.h>
