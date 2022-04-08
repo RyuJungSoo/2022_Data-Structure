@@ -1,5 +1,5 @@
 ![이중연결리스트 ver1](https://user-images.githubusercontent.com/81175672/162357166-bb2cd156-6f62-485d-bd0c-f0b48ed750e4.JPG)
-``C
+```C
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -81,4 +81,4 @@ int main()
 
 	return 0;
 }
-``
+```
